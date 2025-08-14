@@ -41,7 +41,7 @@ To run this project, you will need to have a Java Development Kit (JDK) installe
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/library-javagui.git](https://github.com/tdinh-dev-sec-scientist/library-javaGUI.git)
+    git clone https://github.com/tdinh-dev-sec-scientist/library-javaGUI.git
     ```
 2.  **Open in your favorite IDE:** Open the project in an IDE like Visual Studio Code, IntelliJ IDEA, or Eclipse.
 3.  **Run the application:** Locate the `App.java` file in the `src/app` directory and run it.
@@ -85,4 +85,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
 
