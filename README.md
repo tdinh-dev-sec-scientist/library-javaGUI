@@ -45,7 +45,7 @@ To run this project, you will need to have a Java Development Kit (JDK) installe
     ```
 2.  **Open in your favorite IDE:** Open the project in an IDE like Visual Studio Code, IntelliJ IDEA, or Eclipse.
 3.  **Run the application:** Locate the `App.java` file in the `src/app` directory and run it.
-4.  At the login window, you can type 'Lucas' for username and 'admin123' for password, which are my initally setting. Them you can change it in setting button that you'll see later!
+4.  At the login window, you can type 'Lucas' for username and 'admin123' for password, which are my initially setting. Them you can change it in setting button that you'll see later!
 
 ## Folder Structure
 
@@ -85,3 +85,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
